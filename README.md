@@ -58,7 +58,7 @@ Try the game live here: [XO Game Live](https://mohamed-gaber53.github.io/XO-Game
 
 1. Download or clone the repository:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/Mohamed-Gaber53/XO-Game.git
 2. Open index.html in your browser.
 
 3. Start playing!
